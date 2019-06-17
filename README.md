@@ -1,0 +1,2 @@
+# zeroDivide
+You don’t want this to happen in real-world programs. Instead, you want the program to detect errors, handle them, and then continue to run.
